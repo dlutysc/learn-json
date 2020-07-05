@@ -1,10 +1,6 @@
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 public class JSONArrayDemo {
     public static void main(String[] args) {
         //创建JSONArray对象
